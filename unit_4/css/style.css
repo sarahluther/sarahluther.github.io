@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Marck+Script);
+@import url(https://fonts.googleapis.com/css?family=Philosopher:700);
+@import url(https://fonts.googleapis.com/css?family=Monda);
+
+
+
+#slogan {
+	font-family: Zapfino, 'Marck  Script', cursive;
+	font-size: 32px;
+	font-weight: bold;
+	color: #7F0000;
+}
+
+#tie {
+	font-family: 'Monda', sans-serif;
+	line-height: 1.1em;
+}
+
+h1	{
+	font-family: 'Philosopher', sans-serif;
+	font-weight: 700;
+}
+
+body 	{
+	background-image: url("../images/dandelion_flower.jpg");
+	background-size: cover;
+}
+
+p	{
+
+	margin-right: 450px;
+}
