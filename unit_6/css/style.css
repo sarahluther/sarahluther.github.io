@@ -1,0 +1,92 @@
+@import url(https://fonts.googleapis.com/css?family=Marck+Script);
+@import url(https://fonts.googleapis.com/css?family=Philosopher:700);
+@import url(https://fonts.googleapis.com/css?family=Monda);
+
+#slogan {
+	font-family: Zapfino, 'Marck  Script', cursive;
+	font-size: 32px;
+	font-weight: bold;
+	color: #7F0000;
+}
+
+#hero_image {
+	background-image: url("../images/dandelion_flower.jpg");	
+	padding: 2em;
+	border: 4px inset #000;
+}
+
+#tie {
+	font-family: 'Monda', sans-serif;
+	line-height: 1.1em;
+}
+
+h1	{
+	font-family: 'Philosopher', sans-serif;
+	font-weight: 700;
+}
+
+body 	{
+	background-color: #54748b;
+	margin: 3em;
+}
+
+
+
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 62%;
+}
+
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    Width: 30%;
+}
+
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.quote {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
